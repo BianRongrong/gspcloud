@@ -1,0 +1,12 @@
+C:\projects\gspcloud01\scm\sd\bo-SalesOrder\bin\netstandard2.0\Inspur.GS.Scm.SD.SalesOrder.deps.json
+C:\projects\gspcloud01\scm\sd\bo-SalesOrder\bin\netstandard2.0\Inspur.GS.Scm.SD.SalesOrder.dll
+C:\projects\gspcloud01\scm\sd\bo-SalesOrder\bin\netstandard2.0\Inspur.GS.Scm.SD.SalesOrder.pdb
+C:\projects\gspcloud01\scm\sd\bo-SalesOrder\bin\netstandard2.0\Inspur.Gsp.Udt.RunTime.Entity.dll
+C:\projects\gspcloud01\scm\sd\bo-SalesOrder\bin\netstandard2.0\Inspur.Gsp.Udt.RunTime.Spi.dll
+C:\projects\gspcloud01\scm\sd\bo-SalesOrder\obj\Debug\netstandard2.0\bo-SalesOrder.csprojAssemblyReference.cache
+C:\projects\gspcloud01\scm\sd\bo-SalesOrder\obj\Debug\netstandard2.0\bo-SalesOrder.csproj.CoreCompileInputs.cache
+C:\projects\gspcloud01\scm\sd\bo-SalesOrder\obj\Debug\netstandard2.0\bo-SalesOrder.AssemblyInfoInputs.cache
+C:\projects\gspcloud01\scm\sd\bo-SalesOrder\obj\Debug\netstandard2.0\bo-SalesOrder.AssemblyInfo.cs
+C:\projects\gspcloud01\scm\sd\bo-SalesOrder\obj\Debug\netstandard2.0\bo-SalesOrder.csproj.CopyComplete
+C:\projects\gspcloud01\scm\sd\bo-SalesOrder\obj\Debug\netstandard2.0\Inspur.GS.Scm.SD.SalesOrder.dll
+C:\projects\gspcloud01\scm\sd\bo-SalesOrder\obj\Debug\netstandard2.0\Inspur.GS.Scm.SD.SalesOrder.pdb

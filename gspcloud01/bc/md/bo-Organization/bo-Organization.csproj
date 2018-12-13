@@ -1,0 +1,72 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <OutputPath>bin\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>bin\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyName>Inspur.GS.BC.MD.Organization</AssemblyName>
+    <RootNamespace>Inspur.GS.BC.MD.Organization</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <MetadataProject Include="nothing">
+      <ID>ce2d7e59-9f37-42f4-933c-b5496047a118</ID>
+      <Name>bo-Organization</Name>
+      <NameSpace>Inspur.GS.BC.MD.Organization</NameSpace>
+      <MetadataPackageInfo>
+        <Name>Inspur.GS.BC.MD.Organization</Name>
+        <Version>1.0.0</Version>
+      </MetadataPackageInfo>
+      <MetadataPackageRefs />
+    </MetadataProject>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Inspur.GS.BC.MD.Organization.Organization.Api">
+      <HintPath>bin\Inspur.GS.BC.MD.Organization.Organization.Api.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Inspur.GS.BC.MD.Organization.Organization.Entity">
+      <HintPath>bin\Inspur.GS.BC.MD.Organization.Organization.Entity.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Inspur.Gsp.Bef.Api">
+      <HintPath>bin/ref\Inspur.Gsp.Bef.Api.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Inspur.Gsp.Bef.Entity">
+      <HintPath>bin/ref\Inspur.Gsp.Bef.Entity.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Inspur.Gsp.Bef.Spi">
+      <HintPath>bin/ref\Inspur.Gsp.Bef.Spi.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Inspur.Gsp.Cef.Entity">
+      <HintPath>bin/ref\Inspur.Gsp.Cef.Entity.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Inspur.Gsp.Cef.Api">
+      <HintPath>bin/ref\Inspur.Gsp.Cef.Api.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Inspur.Gsp.Cef.Spi">
+      <HintPath>bin/ref\Inspur.Gsp.Cef.Spi.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Inspur.Gsp.CommonModel.Api">
+      <HintPath>bin/ref\Inspur.Gsp.CommonModel.Api.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
